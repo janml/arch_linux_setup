@@ -20,4 +20,10 @@ input * {
 }
 ```
 
+Start sway on tty1 login, edit `~/.bash_profile` (if you use bash)
+```shell
+[ "$(tty)" = "/dev/tty1" ] && exec sway
+```
+
+
 For more configuration read the [sway docs](https://github.com/swaywm/sway/wiki)
