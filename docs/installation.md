@@ -17,7 +17,7 @@ device list
 station <wifi-device> connect "<wifi-ssid>"
 ```
 
-## Create paritions
+## Create partitions
 I am using the following partition scheme:
 - `FAT32 EFI Boot`
 - `Ext4 Root`
