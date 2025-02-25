@@ -1,1 +1,1 @@
-# My Arch Linux setup.
+# My Arch Linux setup
