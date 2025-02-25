@@ -4,7 +4,7 @@ I am using wayland because its more secure than Xorg and sway because its cool :
 Install wayland and sway
 
 ```shell
-sudo pacman -S wayland xorg-xwayland polkit noto-fonts foot sway
+sudo pacman -S wayland xorg-xwayland polkit noto-fonts foot sway wmenu
 ```
 
 Copy the default sway config to the user sway config
