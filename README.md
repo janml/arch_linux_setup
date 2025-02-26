@@ -1,4 +1,4 @@
-# Arch Linux setup
+# My Arch Linux setup
 Install steps and dotfiles for my Arch Linux setup.
 
 - [Installation](/docs/installation.md)
