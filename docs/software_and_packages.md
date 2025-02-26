@@ -75,6 +75,7 @@ keepassxc
 sway
 swaylock
 rofi-wayland
+wdisplays
 ```
 
 ### Printer support
