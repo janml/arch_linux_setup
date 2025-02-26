@@ -2,6 +2,8 @@
 
 The following steps install a basic Arch Linux system.
 
+A lot of steps are copied from the official [Arch install guide](https://wiki.archlinux.org/title/Installation_guide).
+
 ## Pre-installation steps
 Change the default keyboard layout
 ```shell
