@@ -1,4 +1,5 @@
-# date +'%Y-%m-%d %X'
+#!/usr/bin/env bash
+
 
 battery_status="BAT $(cat /sys/class/power_supply/BAT0/capacity)% ($(cat /sys/class/power_supply/BAT0/status))"
 datetime="$(date +'%Y-%m-%d %X')"
