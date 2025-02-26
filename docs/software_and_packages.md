@@ -74,7 +74,7 @@ keepassxc
 ```shell
 sway
 swaylock
-rofi
+rofi-wayland
 ```
 
 ### Printer support
