@@ -189,7 +189,7 @@ umount -a
 reboot
 ````
 
-If you encounter any issues you can boot from the live-iso fix them with:
+If you encounter issues you can boot from the live-iso and fix them with:
 ````shell
 cryptsetup luksOpen /dev/<encrypted-root-partition> cryptroot
 mount /dev/mapper/cryptroot /mnt
