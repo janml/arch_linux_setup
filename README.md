@@ -1,2 +1,2 @@
 # My Arch Linux setup
-- Base installation
+- [Base installation](/docs/base_installation.md)
