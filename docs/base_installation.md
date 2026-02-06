@@ -65,7 +65,7 @@ mount -o uid=0,gid=0,umask=0077 /dev/<efi-boot-partition> /mnt/boot
 
 Install the base system:
 ````shell
-pacstrap /mnt base base-devel linux linux-firmware vim sudo
+pacstrap /mnt base base-devel linux linux-firmware dhcpcd vim sudo
 ````
 
 Generate the filesystem table
