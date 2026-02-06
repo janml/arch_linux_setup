@@ -219,6 +219,7 @@ systemctl enable reflector.timer
 ### Install a firewall
 ````shell
 pacamn -S ufw
-ufw enable 
-ufw status
+ufw enable
+systemctl enable ufw.service
+# If you use docker, install ufw-docker (aur) and enable it with ufw-docker install
 ````
